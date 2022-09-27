@@ -1,0 +1,2561 @@
+{
+  "bestsellers": [
+    {
+      "id": 1,
+      "img": "https://files.myglamm.com/site-images/400x400/Rare-(1).jpg",
+      "name": "MyGlamm LIT Liquid...",
+      "subname": "Moringa Oil",
+      "rating": "4.9",
+      "ratings": "13658 ratings",
+      "cost": "395"
+    },
+    {
+      "id": 2,
+      "img": "https://files.myglamm.com/site-images/400x400/Soft-Matte-post-1-Poppy-Pink.jpg",
+      "name": "MANISH MALHOTRA...",
+      "subname": "Hydrating Long",
+      "rating": "4.9",
+      "ratings": "611 ratings",
+      "cost": "671"
+    },
+    {
+      "id": 3,
+      "img": "https://files.myglamm.com/site-images/400x400/Facewash_3.jpg",
+      "name": "MYGLAMM WIPEOUT",
+      "subname": "Tea Tree Oil & Vitamin...",
+      "rating": "4.9",
+      "ratings": "676 ratings",
+      "cost": "107"
+    },
+    {
+      "id": 4,
+      "img": "https://files.myglamm.com/site-images/400x400/MHML-(1).jpg",
+      "name": "MYGLAMM LIT CREAMY",
+      "subname": "Precision Perfect ...",
+      "rating": "4.9",
+      "ratings": "699 ratings",
+      "cost": "307"
+    }
+  ],
+  "makeup": [
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/STRBNG-(1).png",
+      "mname": "MANISH MALHOTRA STROBING CREAM",
+      "subname": "Versatile Illuminator With A Blend of 3",
+      "cost": "1550",
+      "rating": "4.9",
+      "ratings": "19 ratings",
+      "id": 1
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Goldfk-(1)_1.jpg",
+      "mname": "MANISH MALHOTRA GOLD FLAKE LIP GLOSS",
+      "subname": "Ultra-glamorous lip gloss for glass-like shine",
+      "cost": "1250",
+      "rating": "5",
+      "ratings": "7 ratings",
+      "id": 2
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Twstr-(1).jpg",
+      "mname": "TWIST IT MASCARA LIPSTICK For Girls",
+      "subname": "Volumising and Curling Mascara",
+      "cost": "645",
+      "rating": "4.9",
+      "ratings": "682 ratings",
+      "id": 3
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BLCKPRTY-(1).jpg",
+      "mname": "MYGLAMM LIT GLOSSY LIQUID EYELINER",
+      "subname": "Up To 24HR Smudge-Proof Coloured Eyeliner",
+      "cost": "578",
+      "rating": "5",
+      "ratings": "579 ratings",
+      "id": 4
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
+      "mname": "Superfoods Kajal Lipstick Good",
+      "subname": "Long Wear Sumudge Proof Kajal",
+      "cost": "276",
+      "rating": "4.5",
+      "ratings": "567 ratings",
+      "id": 5
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Beat-(1)_1.jpg",
+      "mname": "Lit Radiant Matte Compact",
+      "subname": "Illuminating Matte Pressed Powders",
+      "cost": "420",
+      "rating": "5",
+      "ratings": "457 ratings",
+      "id": 6
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Hott-(1).jpg",
+      "mname": "Lit Liquid Matte Lipstick",
+      "subname": "Morinaga Oil Enriched Matte Lipstick",
+      "cost": "395",
+      "rating": "4.5",
+      "ratings": "407 ratings",
+      "id": 7
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+      "mname": "Lit pH Lip Balm",
+      "subname": "Cramy, Hydrating Formula With a Luminous Effect",
+      "cost": "345",
+      "rating": "4.7",
+      "ratings": "300 ratings",
+      "id": 8
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
+      "mname": "Popxo Makeup Mini Lip Kit",
+      "subname": "Mini Lipstick Kit with 3 creamy-matte",
+      "cost": "379",
+      "rating": "4.8",
+      "ratings": "350 ratings",
+      "id": 9
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Fakeid-(1).jpg",
+      "mname": "Lit Velvet Matte Liquid Lipstick",
+      "subname": "Hydrating, Velvet Matte Liquid Lipcolour",
+      "cost": "395",
+      "rating": "4.9",
+      "ratings": "500 ratings",
+      "id": 10
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
+      "mname": "Popxo 12 Eyeshadow Kit",
+      "subname": "Eyeshadow palette with 6 matte",
+      "cost": "381",
+      "rating": "4.9",
+      "ratings": "580 ratings",
+      "id": 11
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+      "mname": "Perfect Curves",
+      "subname": "Moistursing Matte Lipstick",
+      "cost": "499",
+      "rating": "5",
+      "ratings": "500 ratings",
+      "id": 12
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
+      "mname": "Two Of Your Kind",
+      "subname": "Long-Lasting Gel Finish Nail Enamel Set",
+      "cost": "500",
+      "rating": "5",
+      "ratings": "350 ratings",
+      "id": 13
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+      "mname": "K.Play Flavored Lipstick",
+      "subname": "Cherry Flavored Vitamin E-enriched Creamy",
+      "cost": "600",
+      "rating": "4.5",
+      "ratings": "360 ratings",
+      "id": 14
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-side-product-side-bar.jpg",
+      "mname": "Popxo Makeup Nail Kit",
+      "subname": "Mini Nail Polish Set with 5 chip-resistant",
+      "cost": "224",
+      "rating": "5.5",
+      "ratings": "300 ratings",
+      "id": 15
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+      "mname": "Popxo Makeup Nail Kit",
+      "subname": "Mini Nail Polish Set with 5 chip-resistant",
+      "cost": "224",
+      "rating": "5.5",
+      "ratings": "300 ratings",
+      "id": 16
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+      "mname": "Popxo Makeup Eyeshadow Kit",
+      "subname": "Eyeshadow palett with 2 shimmer and 2 matte",
+      "cost": "269",
+      "rating": "5",
+      "ratings": "380 ratings",
+      "id": 17
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/WarmSand-(1).jpg",
+      "mname": "Pose hd foundation stick",
+      "subname": "nourshing matte skin blurring",
+      "cost": "400",
+      "rating": "4.9",
+      "ratings": "314 ratings",
+      "id": 18
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
+      "mname": "popxo makeup face kit",
+      "subname": "3-in 1 blush, setting, and highlighter",
+      "cost": "259",
+      "rating": "3.5",
+      "ratings": "350 ratings",
+      "id": 19
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Savag-(1).jpg",
+      "mname": "lit matte eyeliner pencil",
+      "subname": "Precision eyeliner with intense colur",
+      "cost": "445",
+      "rating": "4.5",
+      "ratings": "355 ratings",
+      "id": 20
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+      "mname": "lit brow definer pencil",
+      "subname": "define & sculpt brosliner",
+      "cost": "500",
+      "rating": "4.6",
+      "ratings": "444 ratings",
+      "id": 21
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1_5.jpg",
+      "mname": "myglamm superfoods color pop lip balm",
+      "subname": "smooth tined lip balam natural extracts",
+      "cost": "456",
+      "rating": "4.3",
+      "ratings": "450 ratings",
+      "id": 22
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1_5.jpg",
+      "mname": "myglam superfoods color pop lip balm",
+      "subname": "smooth, tined lip balm with natural extracts",
+      "cost": "460",
+      "rating": "4.5",
+      "ratings": "430 ratings",
+      "id": 23
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Banan-(1).jpg",
+      "mname": "pose hd banana powder",
+      "subname": "hd yellow setting powder",
+      "cost": "534",
+      "rating": "4.9",
+      "ratings": "455 ratings",
+      "id": 24
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RYMRN-(1).jpg",
+      "mname": "myglamm pure love sindoor",
+      "subname": "liquid matte sindoor",
+      "cost": "166",
+      "rating": "4.5",
+      "ratings": "444 ratings",
+      "id": 25
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SayNomre-(1).jpg",
+      "mname": "Lit nail enamel",
+      "subname": "chip resistant, gloosy nail enamel",
+      "cost": "190",
+      "rating": "4.6",
+      "ratings": "346 ratings",
+      "id": 26
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Hghd-(1).jpg",
+      "mname": "Pose hd highlighter duo",
+      "subname": "hd ultra shimmer highlighter",
+      "cost": "489",
+      "rating": "4.5",
+      "ratings": "499 ratings",
+      "id": 27
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+      "mname": "manish malhotra precision liquid felt tip",
+      "subname": "Intense longwear liquid eyelliner pen",
+      "cost": "671",
+      "rating": "4.6",
+      "ratings": "555 ratings",
+      "id": 28
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Radiance-(1).jpg",
+      "mname": "Treat love care brightening foundation",
+      "subname": "liquid foundation with buildable coerage",
+      "cost": "769",
+      "rating": "4.5",
+      "ratings": "345 ratings",
+      "id": 29
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+      "mname": "popxo first kiss lip balm",
+      "subname": "lip balm for sun lovers",
+      "cost": "129",
+      "rating": "4.6",
+      "ratings": "345 ratings",
+      "id": 30
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/PseStngPwd-(1).jpg",
+      "mname": "pose hd setting powder",
+      "subname": "hd transslucent pressed seting",
+      "cost": "524",
+      "rating": "4.7",
+      "ratings": "700 ratings",
+      "id": 31
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/PechPnk-(1).jpg",
+      "mname": "pose hd lipstick",
+      "subname": "hd long wear matte lipstick",
+      "cost": "599",
+      "rating": "4.8",
+      "ratings": "677 ratings",
+      "id": 32
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-Summer-Days-For-Mega-Stars_2.jpg",
+      "mname": "glamm summer days ",
+      "subname": "say hello to summers",
+      "cost": "731",
+      "rating": "5",
+      "ratings": "599 ratings",
+      "id": 33
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-squad.png",
+      "mname": "glamm squad",
+      "subname": "glamm squad",
+      "cost": "959",
+      "rating": "4.5",
+      "ratings": "399 ratings",
+      "id": 34
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-Summer-Days-Rising-Stars-2.jpg",
+      "mname": "rising stars 02",
+      "subname": "summer days special",
+      "cost": "1542",
+      "rating": "5",
+      "ratings": "700 ratings",
+      "id": 35
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/org-(1)-1.jpg",
+      "mname": "K.pay flavoured lipstick set",
+      "subname": "orange flavored vitamin",
+      "cost": "545",
+      "rating": "4.5",
+      "ratings": "300 ratings",
+      "id": 36
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LIT-Advanced-Kit-3.jpg",
+      "mname": "Lit Advanced makeup kit",
+      "subname": "Lip Makeup kit",
+      "cost": "1161",
+      "rating": "4.8",
+      "ratings": "499 ratings",
+      "id": 37
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Twerk-(1)-1.jpg",
+      "mname": "lit matte nail enamel set of 2",
+      "subname": "chip resistant matte nail",
+      "cost": "242",
+      "rating": "4.5",
+      "ratings": "456 ratings",
+      "id": 38
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
+      "mname": "lit stick on wing liner",
+      "subname": "chip resistant matte nail",
+      "cost": "242",
+      "rating": "4.5",
+      "ratings": "456 ratings",
+      "id": 39
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
+      "mname": "lit stick on wing liner",
+      "subname": "glitter wing eye liner sticker",
+      "cost": "206",
+      "rating": "5",
+      "ratings": "569 ratings",
+      "id": 40
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mascara-Black-Moon-Eyeliner_1.jpg",
+      "mname": "manish malhotra dark knight mascara",
+      "subname": "manish malhotra beauty essential eye kit",
+      "cost": "1105",
+      "rating": "5.5",
+      "ratings": "456 ratings",
+      "id": 41
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MANISH-MALHOTRA-FINAL-01_1.jpg",
+      "mname": "manish malhotra bridal vanity kit",
+      "subname": "bridal vanity kit",
+      "cost": "4148",
+      "rating": "4.5",
+      "ratings": "254 ratings",
+      "id": 42
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/INFERNO.jpg",
+      "mname": "metallic chakl duo",
+      "subname": "cheek chalk",
+      "cost": "742",
+      "rating": "4.7",
+      "ratings": "765 ratings",
+      "id": 43
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Absolute-Bomb-Eye-Makeup-Combo-Kit.jpg",
+      "mname": "absolute bomb eye makeup kit",
+      "subname": "an all eye makeup",
+      "cost": "742",
+      "rating": "4.5",
+      "ratings": "800 ratings",
+      "id": 44
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/manish-malhotra-charmingly-classic-2.png",
+      "mname": "charmingly classic",
+      "subname": "manish malhotra shine",
+      "cost": "1100",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 45
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/12-powder-magic-sq-n-staydefined-1.jpeg",
+      "mname": "Easy on The eyes",
+      "subname": "powder magic and stay defined",
+      "cost": "1615",
+      "rating": "3.5",
+      "ratings": "400 ratings",
+      "id": 46
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Combo-1_1.jpg",
+      "mname": "Flawless base ",
+      "subname": "bring out the real radiant natural",
+      "cost": "1970",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 47
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/flat-foundation-brush-2.jpeg",
+      "mname": "flat foundation brush ",
+      "subname": "Liquid and cream foundation brush",
+      "cost": "747",
+      "rating": "3.5",
+      "ratings": "200 ratings",
+      "id": 48
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Flawless---Nail-&-Lip-Combo.jpg",
+      "mname": "nail and lip combo",
+      "subname": "perfect nails and perfect high lipstick",
+      "cost": "292",
+      "rating": "4.2",
+      "ratings": "100 ratings",
+      "id": 49
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Flawless-Glam---Lipstick-&-Kajal-combo.jpg",
+      "mname": "kajal combo",
+      "subname": "Nothing much more list",
+      "cost": "434",
+      "rating": "4.3",
+      "ratings": "600 ratings",
+      "id": 50
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/ff-dusky-glow-glamour-1.jpeg",
+      "mname": "finish dusky",
+      "subname": "total makeover ff-cream",
+      "cost": "1982",
+      "rating": "4.8",
+      "ratings": "789 ratings",
+      "id": 51
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Feelin-pretty---nail-&-lip-combo.jpg",
+      "mname": "feeling pretty",
+      "subname": "lips and nails combo",
+      "cost": "497",
+      "rating": "4.6",
+      "ratings": "397 ratings",
+      "id": 52
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LIt-NPR-01.jpg",
+      "mname": "enamel remover 30ml",
+      "subname": "acetone free nail Enamel",
+      "cost": "89",
+      "rating": "5",
+      "ratings": "300 ratings",
+      "id": 53
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/TBH-copy-(2_2.jpg",
+      "mname": "liquid matte ",
+      "subname": "moringa oil enriched matte lipstick",
+      "cost": "395",
+      "rating": "3.5",
+      "ratings": "600 ratings",
+      "id": 54
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/JOMO-cop_1.jpg",
+      "mname": "Set of three",
+      "subname": "moringa oil enriched matte lipstick",
+      "cost": "651",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 55
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF-Cacao-Hair-shampoo-Conditioner-Combo.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "smoothening & softening",
+      "cost": "232",
+      "rating": "4.6",
+      "ratings": "109 ratings",
+      "id": 56
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-Nails-On-Fleek-Nail-Lacquer-Set----MyGlamm_1.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "haute counter nail lacquer",
+      "cost": "811",
+      "rating": "4.7",
+      "ratings": "300 ratings",
+      "id": 57
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/15-Manish-Malhotra-Nail-Lacquer-Post-1-Mint-Mystique_1.jpg",
+      "mname": "gel finish nail lacquer",
+      "subname": "Hi-shine gel finish nail enamel",
+      "cost": "199",
+      "rating": "4.3",
+      "ratings": "400 ratings",
+      "id": 58
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Advent-1-_3.jpg",
+      "mname": "7 days of love",
+      "subname": "cupid approved beauty box ",
+      "cost": "2002",
+      "rating": "4.6",
+      "ratings": "288 ratings",
+      "id": 59
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Bridal-Beauty-Kit_2.jpg",
+      "mname": "wedding gift box ",
+      "subname": "handpicked beauty",
+      "cost": "2015",
+      "rating": "4.9",
+      "ratings": "732 ratings",
+      "id": 60
+    }
+  ],
+  "haircare": [
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
+      "mname": "superfoods onion & moringa shampoo",
+      "subname": "for hair fail control",
+      "cost": "256",
+      "rating": "4.6",
+      "ratings": "201 ratings",
+      "id": 1
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit---Olive-Conditioner-1_1.jpg",
+      "mname": "passion fruit & olive",
+      "subname": "moisturzing conditioner",
+      "cost": "299",
+      "rating": "4.3",
+      "ratings": "202 ratings",
+      "id": 2
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/HSPA-(1).jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "314",
+      "rating": "3.4",
+      "ratings": "108 ratings",
+      "id": 3
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+      "mname": "coconut shampoo",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "299",
+      "rating": "4.2",
+      "ratings": "118 ratings",
+      "id": 4
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mangosteen---Avocado-Hair-Mask-1_2.jpg",
+      "mname": "avocado hair mask",
+      "subname": "strengthening & repairing",
+      "cost": "324",
+      "rating": "4.4",
+      "ratings": "100 ratings",
+      "id": 5
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+      "mname": "rosemary shampoo",
+      "subname": "nourishing & cleaning shampoo",
+      "cost": "399",
+      "rating": "4.8",
+      "ratings": "200 ratings",
+      "id": 6
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "moringa conditioner-flat price",
+      "subname": "for hair fail control",
+      "cost": "355",
+      "rating": "4.8",
+      "ratings": "305 ratings",
+      "id": 7
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "hair care combo",
+      "subname": "for hair fail control",
+      "cost": "584",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 8
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CNNN-(1).jpg",
+      "mname": "coffee conditioner",
+      "subname": "smoothening & softening hari conditioner",
+      "cost": "232",
+      "rating": "3.4",
+      "ratings": "100 ratings",
+      "id": 9
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Super-Hair-Nourisher-2.jpg",
+      "mname": "nourisher",
+      "subname": "ultimate strengthening & nourshing combo",
+      "cost": "374",
+      "rating": "5.2",
+      "ratings": "400 ratings",
+      "id": 10
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-02.jpg",
+      "mname": "Moringa hair care combo",
+      "subname": "hair fail control",
+      "cost": "328",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 11
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo1.jpg",
+      "mname": "care hair combo",
+      "subname": "hair fail control",
+      "cost": "356",
+      "rating": "4.3",
+      "ratings": "123 ratings",
+      "id": 12
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-05.jpg",
+      "mname": "superfoods care combo",
+      "subname": "hair fail control",
+      "cost": "673",
+      "rating": "4.5",
+      "ratings": "135 ratings",
+      "id": 13
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Hair-Fall-Control-2.jpg",
+      "mname": "myglam fail control combo",
+      "subname": "hair fall combo",
+      "cost": "328",
+      "rating": "4.6",
+      "ratings": "300 ratings",
+      "id": 14
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "flat price moringa conditioner",
+      "subname": "hair fall combo",
+      "cost": "199",
+      "rating": "4.8",
+      "ratings": "400 ratings",
+      "id": 15
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "care combo shampoo",
+      "subname": "hair fall combo",
+      "cost": "548",
+      "rating": "4.9",
+      "ratings": "199 ratings",
+      "id": 16
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Thai-Celebration---Shampoo-&-Conditioner-Combo.jpg",
+      "mname": "thai celebration-shampoo",
+      "subname": "shampoo & conditioner",
+      "cost": "449",
+      "rating": "4.5",
+      "ratings": "189 ratings",
+      "id": 17
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Good-Hair-Day-Conditioner-Hair-Serum-Combo.jpg",
+      "mname": "good hair day-donditioner",
+      "subname": "silky smooth",
+      "cost": "383",
+      "rating": "4.7",
+      "ratings": "400 ratings",
+      "id": 18
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
+      "mname": "superfoods onion & moringa shampoo",
+      "subname": "for hair fail control",
+      "cost": "256",
+      "rating": "4.6",
+      "ratings": "201 ratings",
+      "id": 19
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit---Olive-Conditioner-1_1.jpg",
+      "mname": "passion fruit & olive",
+      "subname": "moisturzing conditioner",
+      "cost": "299",
+      "rating": "4.3",
+      "ratings": "202 ratings",
+      "id": 20
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/HSPA-(1).jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "314",
+      "rating": "3.4",
+      "ratings": "108 ratings",
+      "id": 21
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+      "mname": "coconut shampoo",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "299",
+      "rating": "4.2",
+      "ratings": "118 ratings",
+      "id": 22
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mangosteen---Avocado-Hair-Mask-1_2.jpg",
+      "mname": "avocado hair mask",
+      "subname": "strengthening & repairing",
+      "cost": "324",
+      "rating": "4.4",
+      "ratings": "100 ratings",
+      "id": 23
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+      "mname": "rosemary shampoo",
+      "subname": "nourishing & cleaning shampoo",
+      "cost": "399",
+      "rating": "4.8",
+      "ratings": "200 ratings",
+      "id": 24
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "moringa conditioner-flat price",
+      "subname": "for hair fail control",
+      "cost": "355",
+      "rating": "4.8",
+      "ratings": "305 ratings",
+      "id": 25
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "hair care combo",
+      "subname": "for hair fail control",
+      "cost": "584",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 26
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CNNN-(1).jpg",
+      "mname": "coffee conditioner",
+      "subname": "smoothening & softening hari conditioner",
+      "cost": "232",
+      "rating": "3.4",
+      "ratings": "100 ratings",
+      "id": 27
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Super-Hair-Nourisher-2.jpg",
+      "mname": "nourisher",
+      "subname": "ultimate strengthening & nourshing combo",
+      "cost": "374",
+      "rating": "5.2",
+      "ratings": "400 ratings",
+      "id": 28
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-02.jpg",
+      "mname": "Moringa hair care combo",
+      "subname": "hair fail control",
+      "cost": "328",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 29
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo1.jpg",
+      "mname": "care hair combo",
+      "subname": "hair fail control",
+      "cost": "356",
+      "rating": "4.3",
+      "ratings": "123 ratings",
+      "id": 30
+    }
+  ],
+  "skincare": [
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
+      "mname": "popxo de-tan jam instant",
+      "subname": "sheet mask for a post sun glow",
+      "cost": "99",
+      "rating": "4.8",
+      "ratings": "400 ratings",
+      "id": 1
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+      "mname": "wipeout germ killing face wash",
+      "subname": "tea tree oil & vitamin e-inflused face wash",
+      "cost": "107",
+      "rating": "3.5",
+      "ratings": "100 ratings",
+      "id": 2
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+      "mname": "beach burm ultra light",
+      "subname": "sunscreen for girls on the go",
+      "cost": "297",
+      "rating": "4.5",
+      "ratings": "200 ratings",
+      "id": 3
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+      "mname": "wipeout germ killing face wash",
+      "subname": "lavender and neem infused",
+      "cost": "107",
+      "rating": "4.6",
+      "ratings": "199 ratings",
+      "id": 4
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BRSGt-(1).jpg",
+      "mname": "k.play sheet mask",
+      "subname": "mandarin infused brightening",
+      "cost": "130",
+      "rating": "4.7",
+      "ratings": "109 ratings",
+      "id": 5
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
+      "mname": "glow iridescent grightening sheet mask",
+      "subname": "rosehip oil-infused brightening sheet",
+      "cost": "170",
+      "rating": "4.7",
+      "ratings": "109 ratings",
+      "id": 6
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
+      "mname": "glow iridescent grightening sheet mask",
+      "subname": "rosehip oil-infused brightening sheet",
+      "cost": "170",
+      "rating": "3.4",
+      "ratings": "130 ratings",
+      "id": 7
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Body-lotion.jpg",
+      "mname": "wipeout germ killing body lotion",
+      "subname": "te tree oil infused moisturzing",
+      "cost": "178",
+      "rating": "4.6",
+      "ratings": "300 ratings",
+      "id": 8
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/13-Sheet-Mask-post-1-Sandalwood-&-Saffron.jpg",
+      "mname": "manish malhotra sheet mask",
+      "subname": "brightening sheet mask made bamboo",
+      "cost": "244",
+      "rating": "4.7",
+      "ratings": "300 ratings",
+      "id": 9
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/VFFD-(1).jpg",
+      "mname": "face scrub-rose and honey",
+      "subname": "rose and honey infused germ-killing",
+      "cost": "122",
+      "rating": "4.8",
+      "ratings": "134 ratings",
+      "id": 10
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
+      "mname": "de tan jam instant brighetning",
+      "subname": "sheet mask for a post-sun glow up",
+      "cost": "99",
+      "rating": "4.9",
+      "ratings": "300 ratings",
+      "id": 11
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LLVB-(1).jpg",
+      "mname": "wipeout germ killing face-wash",
+      "subname": "lavender and neem infused ",
+      "cost": "100",
+      "rating": "4.8",
+      "ratings": "200 ratings",
+      "id": 12
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BCHBU.png",
+      "mname": "beach bum multi-use sunscreen spray",
+      "subname": "sunscreen gor girls on the go",
+      "cost": "200",
+      "rating": "5",
+      "ratings": "300 ratings",
+      "id": 13
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/FCCD-(1)_1.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "nourishing & brightening face cleaner",
+      "cost": "300",
+      "rating": "5.5",
+      "ratings": "284 ratings",
+      "id": 14
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/eyeeee-(1).png",
+      "mname": "manish malhotra revitalishing golden eye mask",
+      "subname": "ultra indulgent golden mesh",
+      "cost": "199",
+      "rating": "4.3",
+      "ratings": "309 ratings",
+      "id": 15
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+      "mname": "strawberry face cream",
+      "subname": "brightening & hydrating face cream",
+      "cost": "339",
+      "rating": "4.5",
+      "ratings": "209 ratings",
+      "id": 16
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-shot-01_1.jpg",
+      "mname": "vitamin c brightening serum",
+      "subname": "clinically testid, highly concentrated face",
+      "cost": "719",
+      "rating": "4.5",
+      "ratings": "378 ratings",
+      "id": 17
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+      "mname": "first kiss lip balm",
+      "subname": "lip balm for sun lovers",
+      "cost": "129",
+      "rating": "4.6",
+      "ratings": "129 ratings",
+      "id": 18
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF5_1.png",
+      "mname": "selfie ready tinted sunscreen",
+      "subname": "sunscreen for selfies",
+      "cost": "399",
+      "rating": "4.6",
+      "ratings": "189 ratings",
+      "id": 19
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+      "mname": "blueberry & strawberry face cream",
+      "subname": "hydrating face cream with natural",
+      "cost": "299",
+      "rating": "3",
+      "ratings": "178 ratings",
+      "id": 20
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-shot-01_4.jpg",
+      "mname": "niacinamide clarifying serum",
+      "subname": "clinically tested extracts",
+      "cost": "559",
+      "rating": "4",
+      "ratings": "200 ratings",
+      "id": 21
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
+      "mname": "glow goals illuminating",
+      "subname": "sunscreen for sun-chasers",
+      "cost": "279",
+      "rating": "4.2",
+      "ratings": "300 ratings",
+      "id": 22
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Watermelon---Raspberry-Face-Wash-1_1.jpg",
+      "mname": "watermelon & raspberry face wash",
+      "subname": "hydrating & brightening facilal",
+      "cost": "254",
+      "rating": "4",
+      "ratings": "384 ratings",
+      "id": 23
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-shot-01_2.jpg",
+      "mname": "hyaluronic acid ",
+      "subname": "clinacally tested extracts",
+      "cost": "543",
+      "rating": "5",
+      "ratings": "400 ratings",
+      "id": 24
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/17-Amla-Moisturising-Gel-Post-1-01.jpg",
+      "mname": "manish malhotra amla moisturising gel",
+      "subname": "gel based natural moisturiser",
+      "cost": "519",
+      "rating": "4.6",
+      "ratings": "204 ratings",
+      "id": 25
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Watermelon---Aloe-Body-Lotion-1_2.jpg",
+      "mname": "moisture-boosting",
+      "subname": "aloe body lotion",
+      "cost": "244",
+      "rating": "4.3",
+      "ratings": "231 ratings",
+      "id": 26
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
+      "mname": "h20 booster sunscreen gel",
+      "subname": "sunscreen for dew lovers",
+      "cost": "279",
+      "rating": "3",
+      "ratings": "28 ratings",
+      "id": 27
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
+      "mname": "kakadu plum sleeping moisturize ",
+      "subname": "skin sleeping mask",
+      "cost": "210",
+      "rating": "5",
+      "ratings": "158 ratings",
+      "id": 28
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MSTCRM-(1).jpg",
+      "mname": "Glow iridesent ",
+      "subname": "rosehip oil infused daily moistrusing cream",
+      "cost": "1037",
+      "rating": "5",
+      "ratings": "590 ratings",
+      "id": 29
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Toner-Close.jpg",
+      "mname": "glow iridesent brightening",
+      "subname": "rosehip oil-infused toner",
+      "cost": "452",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 30
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Foam-Cleanser-Swatch.jpg",
+      "mname": "youthfull hydrating foam",
+      "subname": "marine hydrating",
+      "cost": "334",
+      "rating": "3.3",
+      "ratings": "19 ratings",
+      "id": 31
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/20-Methi-Face-Scrub-Gel-post-1-01.jpg",
+      "mname": "methi face scrub gel",
+      "subname": "gel based natural face scrub",
+      "cost": "471",
+      "rating": "4.5",
+      "ratings": "389 ratings",
+      "id": 32
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Infinite-glow.png",
+      "mname": "infinite glow skincare kit",
+      "subname": "malhotra self care set",
+      "cost": "2342",
+      "rating": "5",
+      "ratings": "800 ratings",
+      "id": 33
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LE1-(3).png",
+      "mname": "wholesome skin love",
+      "subname": "malhotra sheet masks",
+      "cost": "344",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 34
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/popxo-SS0011-(1).jpg",
+      "mname": "sun glaze ultra-light body oil",
+      "subname": "sunscreen for sun glazers",
+      "cost": "399",
+      "rating": "3.5",
+      "ratings": "198 ratings",
+      "id": 35
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/17-Amla-Moisturising-Gel-Post-1-01.jpg",
+      "mname": "manish malhotra amla moisturising gel",
+      "subname": "gel based natural moisturiser",
+      "cost": "519",
+      "rating": "4.6",
+      "ratings": "204 ratings",
+      "id": 36
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Watermelon---Aloe-Body-Lotion-1_2.jpg",
+      "mname": "moisture-boosting",
+      "subname": "aloe body lotion",
+      "cost": "244",
+      "rating": "4.3",
+      "ratings": "231 ratings",
+      "id": 37
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
+      "mname": "h20 booster sunscreen gel",
+      "subname": "sunscreen for dew lovers",
+      "cost": "279",
+      "rating": "3",
+      "ratings": "28 ratings",
+      "id": 38
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
+      "mname": "kakadu plum sleeping moisturize ",
+      "subname": "skin sleeping mask",
+      "cost": "210",
+      "rating": "5",
+      "ratings": "158 ratings",
+      "id": 39
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MSTCRM-(1).jpg",
+      "mname": "Glow iridesent brightening moisturising cream",
+      "subname": "rosehip oil infused daily moistrusing cream",
+      "cost": "1037",
+      "rating": "5",
+      "ratings": "590 ratings",
+      "id": 40
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Toner-Close.jpg",
+      "mname": "glow iridesent brightening",
+      "subname": "rosehip oil-infused toner",
+      "cost": "452",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 41
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Foam-Cleanser-Swatch.jpg",
+      "mname": "youthfull hydrating foam",
+      "subname": "marine hydrating",
+      "cost": "334",
+      "rating": "3.3",
+      "ratings": "19 ratings",
+      "id": 42
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/20-Methi-Face-Scrub-Gel-post-1-01.jpg",
+      "mname": "methi face scrub gel",
+      "subname": "gel based natural face scrub",
+      "cost": "471",
+      "rating": "4.5",
+      "ratings": "389 ratings",
+      "id": 43
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SUPERFOODS-Strawberry-&-Blueberry-Face-Cream-SUPERFOODS-Blueberry-&-Kakadu-Plum-Sleeping-Mask.jpg",
+      "mname": "supercharged skin",
+      "subname": "superfoods thai",
+      "cost": "493",
+      "rating": "3.9",
+      "ratings": "200 ratings",
+      "id": 44
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/GLWFCMS-(1).jpg",
+      "mname": "glow face mask",
+      "subname": "nourshing & brightening face mask",
+      "cost": "244",
+      "rating": "4.2",
+      "ratings": "299 ratings",
+      "id": 45
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BEST-FACE-FORWARD-KIT-(1).jpg",
+      "mname": "best face forward kit",
+      "subname": "best face forward kit",
+      "cost": "897",
+      "rating": "5",
+      "ratings": "500 ratings",
+      "id": 46
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Instant-Freshness-skincare-combo_1.jpg",
+      "mname": "instant greshness-skincare combo",
+      "subname": "skincare combo",
+      "cost": "159",
+      "rating": "4",
+      "ratings": "156 ratings",
+      "id": 47
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SUNNN-(1).png",
+      "mname": "sun lotion",
+      "subname": "lotion for sun bathers",
+      "cost": "397",
+      "rating": "3.8",
+      "ratings": "108 ratings",
+      "id": 48
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SD1.png",
+      "mname": "sundowner soothing mask",
+      "subname": "sheet maks for eod skincare",
+      "cost": "99",
+      "rating": "5",
+      "ratings": "197 ratings",
+      "id": 49
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/FS1_1.png",
+      "mname": "sundowner soothing mask",
+      "subname": "sheet maks for eod skincare",
+      "cost": "96",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 50
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/20-Methi-Face-Scrub-Gel-post-1-01.jpg",
+      "mname": "methi face scrub gel",
+      "subname": "gel based natural face scrub",
+      "cost": "471",
+      "rating": "4.5",
+      "ratings": "389 ratings",
+      "id": 51
+    }
+  ],
+  "santizingcare": [
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+      "mname": "wipeout germ killing face wash",
+      "subname": "tea tree oil vitimal",
+      "cost": "107",
+      "rating": "5",
+      "ratings": "108 ratings",
+      "id": 1
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+      "mname": "wipeout germ rose & honey",
+      "subname": "tea tree oil vitimal",
+      "cost": "189",
+      "rating": "4.3",
+      "ratings": "178 ratings",
+      "id": 2
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+      "mname": "levend purifying face wash",
+      "subname": "nemm infused purifying face wash",
+      "cost": "108",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 3
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Sanitizing-spray-(2).jpg",
+      "mname": "sanitizing spray",
+      "subname": "lemongrass, nemm & spray",
+      "cost": "169",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 4
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes.jpg",
+      "mname": "wipeout sanitizing wipes",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "69",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 5
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cleansing-towels-(2).jpg",
+      "mname": "wipeout sanitizing wipes 3",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "300 ratings",
+      "id": 6
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/27-Antimicrobial-Facial-Wipes-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial facial wipes",
+      "subname": "oud il cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "4.4",
+      "ratings": "300 ratings",
+      "id": 7
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/26-Antimicrobial-Sanitizing-Hand-Rub-100ml-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial sanitizing hand rub",
+      "subname": "oud oil cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "5",
+      "ratings": "479 ratings",
+      "id": 8
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Game-over-Germs_2.jpg",
+      "mname": "game over germs",
+      "subname": "10 sanitizing wipes",
+      "cost": "226",
+      "rating": "4.3",
+      "ratings": "899 ratings",
+      "id": 9
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Head-to-toe_4.jpg",
+      "mname": "head to toe kit",
+      "subname": "wipeout germ killing face wash",
+      "cost": "100",
+      "rating": "4.7",
+      "ratings": "290 ratings",
+      "id": 10
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RDSF-(1)_1.jpg",
+      "mname": "rose & honey body wash",
+      "subname": "purifying body wash",
+      "cost": "199",
+      "rating": "3.4",
+      "ratings": "203 ratings",
+      "id": 11
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-LUXE-ESSENTIALS_1.jpg",
+      "mname": "rose & honey body wash",
+      "subname": "purifying body wash",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "203 ratings",
+      "id": 12
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Germ-Shield_2.jpg",
+      "mname": "germ shield",
+      "subname": "shields",
+      "cost": "173",
+      "rating": "4.8",
+      "ratings": "1000 ratings",
+      "id": 13
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Maximum-Goodness-Sanitizing-care-combo_1.jpg",
+      "mname": "maximum goodness",
+      "subname": "stay protected wipeout",
+      "cost": "189",
+      "rating": "4.9",
+      "ratings": "900 ratings",
+      "id": 14
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Dual-shield-sanitizing-care-combo_1.jpg",
+      "mname": "dual shield",
+      "subname": "goodness of natural extracts",
+      "cost": "202",
+      "rating": "4.8",
+      "ratings": "301 ratings",
+      "id": 15
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Maximum-Defence-Sanitizing-care-combo_1.jpg",
+      "mname": "dual shield",
+      "subname": "goodness of natural extracts",
+      "cost": "480",
+      "rating": "4.8",
+      "ratings": "328 ratings",
+      "id": 16
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+      "mname": "wipeout germ rose & honey",
+      "subname": "tea tree oil vitimal",
+      "cost": "189",
+      "rating": "4.3",
+      "ratings": "178 ratings",
+      "id": 17
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+      "mname": "levend purifying face wash",
+      "subname": "nemm infused purifying face wash",
+      "cost": "108",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 18
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Sanitizing-spray-(2).jpg",
+      "mname": "sanitizing spray",
+      "subname": "lemongrass, nemm & spray",
+      "cost": "169",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 19
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes.jpg",
+      "mname": "wipeout sanitizing wipes",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "69",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 20
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cleansing-towels-(2).jpg",
+      "mname": "wipeout sanitizing wipes 3",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "300 ratings",
+      "id": 21
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/27-Antimicrobial-Facial-Wipes-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial facial wipes",
+      "subname": "oud il cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "4.4",
+      "ratings": "300 ratings",
+      "id": 22
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/26-Antimicrobial-Sanitizing-Hand-Rub-100ml-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial sanitizing hand rub",
+      "subname": "oud oil cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "5",
+      "ratings": "479 ratings",
+      "id": 23
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Game-over-Germs_2.jpg",
+      "mname": "game over germs",
+      "subname": "10 sanitizing wipes",
+      "cost": "226",
+      "rating": "4.3",
+      "ratings": "899 ratings",
+      "id": 24
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+      "mname": "wipeout germ killing face wash",
+      "subname": "tea tree oil vitimal",
+      "cost": "107",
+      "rating": "5",
+      "ratings": "108 ratings",
+      "id": 25
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+      "mname": "wipeout germ rose & honey",
+      "subname": "tea tree oil vitimal",
+      "cost": "189",
+      "rating": "4.3",
+      "ratings": "178 ratings",
+      "id": 26
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes.jpg",
+      "mname": "wipeout sanitizing wipes",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "69",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 27
+    }
+  ],
+  "collection": [
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BCHBU.png",
+      "mname": "beach bum multi-use sunscreen spray",
+      "subname": "sunscreen gor girls on the go",
+      "cost": "200",
+      "rating": "5",
+      "ratings": "300 ratings",
+      "id": 1
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/FCCD-(1)_1.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "nourishing & brightening face cleaner",
+      "cost": "300",
+      "rating": "5.5",
+      "ratings": "284 ratings",
+      "id": 2
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/eyeeee-(1).png",
+      "mname": "manish malhotra revitalishing golden eye mask",
+      "subname": "ultra indulgent golden mesh",
+      "cost": "199",
+      "rating": "4.3",
+      "ratings": "309 ratings",
+      "id": 3
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+      "mname": "strawberry face cream",
+      "subname": "brightening & hydrating face cream",
+      "cost": "339",
+      "rating": "4.5",
+      "ratings": "209 ratings",
+      "id": 4
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-shot-01_1.jpg",
+      "mname": "vitamin c brightening serum",
+      "subname": "clinically testid, highly concentrated face",
+      "cost": "719",
+      "rating": "4.5",
+      "ratings": "378 ratings",
+      "id": 5
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+      "mname": "first kiss lip balm",
+      "subname": "lip balm for sun lovers",
+      "cost": "129",
+      "rating": "4.6",
+      "ratings": "129 ratings",
+      "id": 6
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Hott-(1).jpg",
+      "mname": "Lit Liquid Matte Lipstick",
+      "subname": "Morinaga Oil Enriched Matte Lipstick",
+      "cost": "395",
+      "rating": "4.5",
+      "ratings": "407 ratings",
+      "id": 7
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+      "mname": "Lit pH Lip Balm",
+      "subname": "Cramy, Hydrating Formula With a Luminous Effect",
+      "cost": "345",
+      "rating": "4.7",
+      "ratings": "300 ratings",
+      "id": 8
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
+      "mname": "Popxo Makeup Mini Lip Kit",
+      "subname": "Mini Lipstick Kit with 3 creamy-matte",
+      "cost": "379",
+      "rating": "4.8",
+      "ratings": "350 ratings",
+      "id": 9
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Fakeid-(1).jpg",
+      "mname": "Lit Velvet Matte Liquid Lipstick",
+      "subname": "Hydrating, Velvet Matte Liquid Lipcolour",
+      "cost": "395",
+      "rating": "4.9",
+      "ratings": "500 ratings",
+      "id": 10
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
+      "mname": "Popxo 12 Eyeshadow Kit",
+      "subname": "Eyeshadow palette with 6 matte",
+      "cost": "381",
+      "rating": "4.9",
+      "ratings": "580 ratings",
+      "id": 11
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+      "mname": "Perfect Curves",
+      "subname": "Moistursing Matte Lipstick",
+      "cost": "499",
+      "rating": "5",
+      "ratings": "500 ratings",
+      "id": 12
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
+      "mname": "Two Of Your Kind",
+      "subname": "Long-Lasting Gel Finish Nail Enamel Set",
+      "cost": "500",
+      "rating": "5",
+      "ratings": "350 ratings",
+      "id": 13
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+      "mname": "K.Play Flavored Lipstick",
+      "subname": "Cherry Flavored Vitamin E-enriched Creamy",
+      "cost": "600",
+      "rating": "4.5",
+      "ratings": "360 ratings",
+      "id": 14
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-side-product-side-bar.jpg",
+      "mname": "Popxo Makeup Nail Kit",
+      "subname": "Mini Nail Polish Set with 5 chip-resistant",
+      "cost": "224",
+      "rating": "5.5",
+      "ratings": "300 ratings",
+      "id": 15
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+      "mname": "Popxo Makeup Nail Kit",
+      "subname": "Mini Nail Polish Set with 5 chip-resistant",
+      "cost": "224",
+      "rating": "5.5",
+      "ratings": "300 ratings",
+      "id": 16
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+      "mname": "Popxo Makeup Eyeshadow Kit",
+      "subname": "Eyeshadow palett with 2 shimmer and 2 matte",
+      "cost": "269",
+      "rating": "5",
+      "ratings": "380 ratings",
+      "id": 17
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/WarmSand-(1).jpg",
+      "mname": "Pose hd foundation stick",
+      "subname": "nourshing matte skin blurring",
+      "cost": "400",
+      "rating": "4.9",
+      "ratings": "314 ratings",
+      "id": 18
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
+      "mname": "popxo makeup face kit",
+      "subname": "3-in 1 blush, setting, and highlighter",
+      "cost": "259",
+      "rating": "3.5",
+      "ratings": "350 ratings",
+      "id": 19
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Savag-(1).jpg",
+      "mname": "lit matte eyeliner pencil",
+      "subname": "Precision eyeliner with intense colur",
+      "cost": "445",
+      "rating": "4.5",
+      "ratings": "355 ratings",
+      "id": 20
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+      "mname": "lit brow definer pencil",
+      "subname": "define & sculpt brosliner",
+      "cost": "500",
+      "rating": "4.6",
+      "ratings": "444 ratings",
+      "id": 21
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1_5.jpg",
+      "mname": "myglamm superfoods color pop lip balm",
+      "subname": "smooth tined lip balam natural extracts",
+      "cost": "456",
+      "rating": "4.3",
+      "ratings": "450 ratings",
+      "id": 22
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1_5.jpg",
+      "mname": "myglam superfoods color pop lip balm",
+      "subname": "smooth, tined lip balm with natural extracts",
+      "cost": "460",
+      "rating": "4.5",
+      "ratings": "430 ratings",
+      "id": 23
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Banan-(1).jpg",
+      "mname": "pose hd banana powder",
+      "subname": "hd yellow setting powder",
+      "cost": "534",
+      "rating": "4.9",
+      "ratings": "455 ratings",
+      "id": 24
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RYMRN-(1).jpg",
+      "mname": "myglamm pure love sindoor",
+      "subname": "liquid matte sindoor",
+      "cost": "166",
+      "rating": "4.5",
+      "ratings": "444 ratings",
+      "id": 25
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SayNomre-(1).jpg",
+      "mname": "Lit nail enamel",
+      "subname": "chip resistant, gloosy nail enamel",
+      "cost": "190",
+      "rating": "4.6",
+      "ratings": "346 ratings",
+      "id": 26
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Hghd-(1).jpg",
+      "mname": "Pose hd highlighter duo",
+      "subname": "hd ultra shimmer highlighter",
+      "cost": "489",
+      "rating": "4.5",
+      "ratings": "499 ratings",
+      "id": 27
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+      "mname": "manish malhotra precision liquid felt tip",
+      "subname": "Intense longwear liquid eyelliner pen",
+      "cost": "671",
+      "rating": "4.6",
+      "ratings": "555 ratings",
+      "id": 28
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Radiance-(1).jpg",
+      "mname": "Treat love care brightening foundation",
+      "subname": "liquid foundation with buildable coerage",
+      "cost": "769",
+      "rating": "4.5",
+      "ratings": "345 ratings",
+      "id": 29
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+      "mname": "popxo first kiss lip balm",
+      "subname": "lip balm for sun lovers",
+      "cost": "129",
+      "rating": "4.6",
+      "ratings": "345 ratings",
+      "id": 30
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/PseStngPwd-(1).jpg",
+      "mname": "pose hd setting powder",
+      "subname": "hd transslucent pressed seting",
+      "cost": "524",
+      "rating": "4.7",
+      "ratings": "700 ratings",
+      "id": 31
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/PechPnk-(1).jpg",
+      "mname": "pose hd lipstick",
+      "subname": "hd long wear matte lipstick",
+      "cost": "599",
+      "rating": "4.8",
+      "ratings": "677 ratings",
+      "id": 32
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-Summer-Days-For-Mega-Stars_2.jpg",
+      "mname": "glamm summer days ",
+      "subname": "say hello to summers",
+      "cost": "731",
+      "rating": "5",
+      "ratings": "599 ratings",
+      "id": 33
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-squad.png",
+      "mname": "glamm squad",
+      "subname": "glamm squad",
+      "cost": "959",
+      "rating": "4.5",
+      "ratings": "399 ratings",
+      "id": 34
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Glamm-Summer-Days-Rising-Stars-2.jpg",
+      "mname": "rising stars 02",
+      "subname": "summer days special",
+      "cost": "1542",
+      "rating": "5",
+      "ratings": "700 ratings",
+      "id": 35
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/org-(1)-1.jpg",
+      "mname": "K.pay flavoured lipstick set",
+      "subname": "orange flavored vitamin",
+      "cost": "545",
+      "rating": "4.5",
+      "ratings": "300 ratings",
+      "id": 36
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LIT-Advanced-Kit-3.jpg",
+      "mname": "Lit Advanced makeup kit",
+      "subname": "Lip Makeup kit",
+      "cost": "1161",
+      "rating": "4.8",
+      "ratings": "499 ratings",
+      "id": 37
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Twerk-(1)-1.jpg",
+      "mname": "lit matte nail enamel set of 2",
+      "subname": "chip resistant matte nail",
+      "cost": "242",
+      "rating": "4.5",
+      "ratings": "456 ratings",
+      "id": 38
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
+      "mname": "lit stick on wing liner",
+      "subname": "chip resistant matte nail",
+      "cost": "242",
+      "rating": "4.5",
+      "ratings": "456 ratings",
+      "id": 39
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
+      "mname": "lit stick on wing liner",
+      "subname": "glitter wing eye liner sticker",
+      "cost": "206",
+      "rating": "5",
+      "ratings": "569 ratings",
+      "id": 40
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mascara-Black-Moon-Eyeliner_1.jpg",
+      "mname": "manish malhotra dark knight mascara",
+      "subname": "manish malhotra beauty essential eye kit",
+      "cost": "1105",
+      "rating": "5.5",
+      "ratings": "456 ratings",
+      "id": 41
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MANISH-MALHOTRA-FINAL-01_1.jpg",
+      "mname": "manish malhotra bridal vanity kit",
+      "subname": "bridal vanity kit",
+      "cost": "4148",
+      "rating": "4.5",
+      "ratings": "254 ratings",
+      "id": 42
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/INFERNO.jpg",
+      "mname": "metallic chakl duo",
+      "subname": "cheek chalk",
+      "cost": "742",
+      "rating": "4.7",
+      "ratings": "765 ratings",
+      "id": 43
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Absolute-Bomb-Eye-Makeup-Combo-Kit.jpg",
+      "mname": "absolute bomb eye makeup kit",
+      "subname": "an all eye makeup",
+      "cost": "742",
+      "rating": "4.5",
+      "ratings": "800 ratings",
+      "id": 44
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/manish-malhotra-charmingly-classic-2.png",
+      "mname": "charmingly classic",
+      "subname": "manish malhotra shine",
+      "cost": "1100",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 45
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/12-powder-magic-sq-n-staydefined-1.jpeg",
+      "mname": "Easy on The eyes",
+      "subname": "powder magic and stay defined",
+      "cost": "1615",
+      "rating": "3.5",
+      "ratings": "400 ratings",
+      "id": 46
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Combo-1_1.jpg",
+      "mname": "Flawless base ",
+      "subname": "bring out the real radiant natural",
+      "cost": "1970",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 47
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/flat-foundation-brush-2.jpeg",
+      "mname": "flat foundation brush ",
+      "subname": "Liquid and cream foundation brush",
+      "cost": "747",
+      "rating": "3.5",
+      "ratings": "200 ratings",
+      "id": 48
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Flawless---Nail-&-Lip-Combo.jpg",
+      "mname": "nail and lip combo",
+      "subname": "perfect nails and perfect high lipstick",
+      "cost": "292",
+      "rating": "4.2",
+      "ratings": "100 ratings",
+      "id": 49
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Flawless-Glam---Lipstick-&-Kajal-combo.jpg",
+      "mname": "kajal combo",
+      "subname": "Nothing much more list",
+      "cost": "434",
+      "rating": "4.3",
+      "ratings": "600 ratings",
+      "id": 50
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/ff-dusky-glow-glamour-1.jpeg",
+      "mname": "finish dusky",
+      "subname": "total makeover ff-cream",
+      "cost": "1982",
+      "rating": "4.8",
+      "ratings": "789 ratings",
+      "id": 51
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Feelin-pretty---nail-&-lip-combo.jpg",
+      "mname": "feeling pretty",
+      "subname": "lips and nails combo",
+      "cost": "497",
+      "rating": "4.6",
+      "ratings": "397 ratings",
+      "id": 52
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/LIt-NPR-01.jpg",
+      "mname": "enamel remover 30ml",
+      "subname": "acetone free nail Enamel",
+      "cost": "89",
+      "rating": "5",
+      "ratings": "300 ratings",
+      "id": 53
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/TBH-copy-(2_2.jpg",
+      "mname": "liquid matte ",
+      "subname": "moringa oil enriched matte lipstick",
+      "cost": "395",
+      "rating": "3.5",
+      "ratings": "600 ratings",
+      "id": 54
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/JOMO-cop_1.jpg",
+      "mname": "Set of three",
+      "subname": "moringa oil enriched matte lipstick",
+      "cost": "651",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 55
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF-Cacao-Hair-shampoo-Conditioner-Combo.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "smoothening & softening",
+      "cost": "232",
+      "rating": "4.6",
+      "ratings": "109 ratings",
+      "id": 56
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-Nails-On-Fleek-Nail-Lacquer-Set----MyGlamm_1.jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "haute counter nail lacquer",
+      "cost": "811",
+      "rating": "4.7",
+      "ratings": "300 ratings",
+      "id": 57
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/15-Manish-Malhotra-Nail-Lacquer-Post-1-Mint-Mystique_1.jpg",
+      "mname": "gel finish nail lacquer",
+      "subname": "Hi-shine gel finish nail enamel",
+      "cost": "199",
+      "rating": "4.3",
+      "ratings": "400 ratings",
+      "id": 58
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Advent-1-_3.jpg",
+      "mname": "7 days of love",
+      "subname": "cupid approved beauty box ",
+      "cost": "2002",
+      "rating": "4.6",
+      "ratings": "288 ratings",
+      "id": 59
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Bridal-Beauty-Kit_2.jpg",
+      "mname": "wedding gift box ",
+      "subname": "handpicked beauty",
+      "cost": "2015",
+      "rating": "4.9",
+      "ratings": "732 ratings",
+      "id": 60
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+      "mname": "coconut shampoo",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "299",
+      "rating": "4.2",
+      "ratings": "118 ratings",
+      "id": 61
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mangosteen---Avocado-Hair-Mask-1_2.jpg",
+      "mname": "avocado hair mask",
+      "subname": "strengthening & repairing",
+      "cost": "324",
+      "rating": "4.4",
+      "ratings": "100 ratings",
+      "id": 62
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+      "mname": "rosemary shampoo",
+      "subname": "nourishing & cleaning shampoo",
+      "cost": "399",
+      "rating": "4.8",
+      "ratings": "200 ratings",
+      "id": 63
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "moringa conditioner-flat price",
+      "subname": "for hair fail control",
+      "cost": "355",
+      "rating": "4.8",
+      "ratings": "305 ratings",
+      "id": 64
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "hair care combo",
+      "subname": "for hair fail control",
+      "cost": "584",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 65
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CNNN-(1).jpg",
+      "mname": "coffee conditioner",
+      "subname": "smoothening & softening hari conditioner",
+      "cost": "232",
+      "rating": "3.4",
+      "ratings": "100 ratings",
+      "id": 66
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Super-Hair-Nourisher-2.jpg",
+      "mname": "nourisher",
+      "subname": "ultimate strengthening & nourshing combo",
+      "cost": "374",
+      "rating": "5.2",
+      "ratings": "400 ratings",
+      "id": 67
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-02.jpg",
+      "mname": "Moringa hair care combo",
+      "subname": "hair fail control",
+      "cost": "328",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 68
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo1.jpg",
+      "mname": "care hair combo",
+      "subname": "hair fail control",
+      "cost": "356",
+      "rating": "4.3",
+      "ratings": "123 ratings",
+      "id": 69
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-05.jpg",
+      "mname": "superfoods care combo",
+      "subname": "hair fail control",
+      "cost": "673",
+      "rating": "4.5",
+      "ratings": "135 ratings",
+      "id": 70
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Hair-Fall-Control-2.jpg",
+      "mname": "myglam fail control combo",
+      "subname": "hair fall combo",
+      "cost": "328",
+      "rating": "4.6",
+      "ratings": "300 ratings",
+      "id": 71
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "flat price moringa conditioner",
+      "subname": "hair fall combo",
+      "cost": "199",
+      "rating": "4.8",
+      "ratings": "400 ratings",
+      "id": 72
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "care combo shampoo",
+      "subname": "hair fall combo",
+      "cost": "548",
+      "rating": "4.9",
+      "ratings": "199 ratings",
+      "id": 73
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Thai-Celebration---Shampoo-&-Conditioner-Combo.jpg",
+      "mname": "thai celebration-shampoo",
+      "subname": "shampoo & conditioner",
+      "cost": "449",
+      "rating": "4.5",
+      "ratings": "189 ratings",
+      "id": 74
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Good-Hair-Day-Conditioner-Hair-Serum-Combo.jpg",
+      "mname": "good hair day-donditioner",
+      "subname": "silky smooth",
+      "cost": "383",
+      "rating": "4.7",
+      "ratings": "400 ratings",
+      "id": 75
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
+      "mname": "superfoods onion & moringa shampoo",
+      "subname": "for hair fail control",
+      "cost": "256",
+      "rating": "4.6",
+      "ratings": "201 ratings",
+      "id": 76
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit---Olive-Conditioner-1_1.jpg",
+      "mname": "passion fruit & olive",
+      "subname": "moisturzing conditioner",
+      "cost": "299",
+      "rating": "4.3",
+      "ratings": "202 ratings",
+      "id": 77
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/HSPA-(1).jpg",
+      "mname": "myglamm superfoods cacao",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "314",
+      "rating": "3.4",
+      "ratings": "108 ratings",
+      "id": 78
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+      "mname": "coconut shampoo",
+      "subname": "anti-dandruff and moristurising",
+      "cost": "299",
+      "rating": "4.2",
+      "ratings": "118 ratings",
+      "id": 79
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Mangosteen---Avocado-Hair-Mask-1_2.jpg",
+      "mname": "avocado hair mask",
+      "subname": "strengthening & repairing",
+      "cost": "324",
+      "rating": "4.4",
+      "ratings": "100 ratings",
+      "id": 80
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+      "mname": "rosemary shampoo",
+      "subname": "nourishing & cleaning shampoo",
+      "cost": "399",
+      "rating": "4.8",
+      "ratings": "200 ratings",
+      "id": 81
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+      "mname": "moringa conditioner-flat price",
+      "subname": "for hair fail control",
+      "cost": "355",
+      "rating": "4.8",
+      "ratings": "305 ratings",
+      "id": 82
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-04.jpg",
+      "mname": "hair care combo",
+      "subname": "for hair fail control",
+      "cost": "584",
+      "rating": "4.9",
+      "ratings": "800 ratings",
+      "id": 83
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/CNNN-(1).jpg",
+      "mname": "coffee conditioner",
+      "subname": "smoothening & softening hari conditioner",
+      "cost": "232",
+      "rating": "3.4",
+      "ratings": "100 ratings",
+      "id": 84
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/SF--Super-Hair-Nourisher-2.jpg",
+      "mname": "nourisher",
+      "subname": "ultimate strengthening & nourshing combo",
+      "cost": "374",
+      "rating": "5.2",
+      "ratings": "400 ratings",
+      "id": 85
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-02.jpg",
+      "mname": "Moringa hair care combo",
+      "subname": "hair fail control",
+      "cost": "328",
+      "rating": "4.2",
+      "ratings": "200 ratings",
+      "id": 86
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo1.jpg",
+      "mname": "care hair combo",
+      "subname": "hair fail control",
+      "cost": "356",
+      "rating": "4.3",
+      "ratings": "123 ratings",
+      "id": 87
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+      "mname": "levend purifying face wash",
+      "subname": "nemm infused purifying face wash",
+      "cost": "108",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 88
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Sanitizing-spray-(2).jpg",
+      "mname": "sanitizing spray",
+      "subname": "lemongrass, nemm & spray",
+      "cost": "169",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 89
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes.jpg",
+      "mname": "wipeout sanitizing wipes",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "69",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 90
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cleansing-towels-(2).jpg",
+      "mname": "wipeout sanitizing wipes 3",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "300 ratings",
+      "id": 91
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/27-Antimicrobial-Facial-Wipes-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial facial wipes",
+      "subname": "oud il cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "4.4",
+      "ratings": "300 ratings",
+      "id": 92
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/26-Antimicrobial-Sanitizing-Hand-Rub-100ml-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial sanitizing hand rub",
+      "subname": "oud oil cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "5",
+      "ratings": "479 ratings",
+      "id": 93
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Game-over-Germs_2.jpg",
+      "mname": "game over germs",
+      "subname": "10 sanitizing wipes",
+      "cost": "226",
+      "rating": "4.3",
+      "ratings": "899 ratings",
+      "id": 94
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Head-to-toe_4.jpg",
+      "mname": "head to toe kit",
+      "subname": "wipeout germ killing face wash",
+      "cost": "100",
+      "rating": "4.7",
+      "ratings": "290 ratings",
+      "id": 95
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/RDSF-(1)_1.jpg",
+      "mname": "rose & honey body wash",
+      "subname": "purifying body wash",
+      "cost": "199",
+      "rating": "3.4",
+      "ratings": "203 ratings",
+      "id": 96
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-LUXE-ESSENTIALS_1.jpg",
+      "mname": "rose & honey body wash",
+      "subname": "purifying body wash",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "203 ratings",
+      "id": 97
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Germ-Shield_2.jpg",
+      "mname": "germ shield",
+      "subname": "shields",
+      "cost": "173",
+      "rating": "4.8",
+      "ratings": "1000 ratings",
+      "id": 98
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Maximum-Goodness-Sanitizing-care-combo_1.jpg",
+      "mname": "maximum goodness",
+      "subname": "stay protected wipeout",
+      "cost": "189",
+      "rating": "4.9",
+      "ratings": "900 ratings",
+      "id": 99
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Dual-shield-sanitizing-care-combo_1.jpg",
+      "mname": "dual shield",
+      "subname": "goodness of natural extracts",
+      "cost": "202",
+      "rating": "4.8",
+      "ratings": "301 ratings",
+      "id": 100
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Maximum-Defence-Sanitizing-care-combo_1.jpg",
+      "mname": "dual shield",
+      "subname": "goodness of natural extracts",
+      "cost": "480",
+      "rating": "4.8",
+      "ratings": "328 ratings",
+      "id": 101
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+      "mname": "wipeout germ rose & honey",
+      "subname": "tea tree oil vitimal",
+      "cost": "189",
+      "rating": "4.3",
+      "ratings": "178 ratings",
+      "id": 102
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+      "mname": "levend purifying face wash",
+      "subname": "nemm infused purifying face wash",
+      "cost": "108",
+      "rating": "4.3",
+      "ratings": "190 ratings",
+      "id": 103
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Sanitizing-spray-(2).jpg",
+      "mname": "sanitizing spray",
+      "subname": "lemongrass, nemm & spray",
+      "cost": "169",
+      "rating": "4.8",
+      "ratings": "300 ratings",
+      "id": 104
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes.jpg",
+      "mname": "wipeout sanitizing wipes",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "69",
+      "rating": "4.9",
+      "ratings": "200 ratings",
+      "id": 105
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Cleansing-towels-(2).jpg",
+      "mname": "wipeout sanitizing wipes 3",
+      "subname": "lemon wipes that santizie and moisturize",
+      "cost": "199",
+      "rating": "4.2",
+      "ratings": "300 ratings",
+      "id": 106
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/27-Antimicrobial-Facial-Wipes-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial facial wipes",
+      "subname": "oud il cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "4.4",
+      "ratings": "300 ratings",
+      "id": 107
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/26-Antimicrobial-Sanitizing-Hand-Rub-100ml-Post-1-Sanitizing-Spray.jpg",
+      "mname": "antimicrobial sanitizing hand rub",
+      "subname": "oud oil cleaning & makeup removing facial wipes",
+      "cost": "314",
+      "rating": "5",
+      "ratings": "479 ratings",
+      "id": 108
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Game-over-Germs_2.jpg",
+      "mname": "game over germs",
+      "subname": "10 sanitizing wipes",
+      "cost": "226",
+      "rating": "4.3",
+      "ratings": "899 ratings",
+      "id": 109
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+      "mname": "wipeout germ killing face wash",
+      "subname": "tea tree oil vitimal",
+      "cost": "107",
+      "rating": "5",
+      "ratings": "108 ratings",
+      "id": 110
+    },
+    {
+      "avatar": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+      "mname": "wipeout germ rose & honey",
+      "subname": "tea tree oil vitimal",
+      "cost": "189",
+      "rating": "4.3",
+      "ratings": "178 ratings",
+      "id": 111
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+#textone {
+  display: inline-block;
+  height: auto;
+  margin: auto;
+  padding: 2px;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 20px;
+  background: linear-gradient(180deg, transparent 60%, #ff9797 30px);
+}
+
+.drop {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-conten {
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  background-color: white;
+  width: 370px;
+  height: 66px;
+  margin-top: 0px;
+  opacity: 0.7;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+  z-index: 1;
+}
+
+.dropdown-conten:hover {
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  background-color: white;
+  width: 370px;
+  height: 150px;
+  line-height: 60px;
+  margin-top: 0px;
+  opacity: 0.9;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+  z-index: 1;
+}
+
+.drop:hover .dropdown-conten {
+  display: block;
+}
+#tone {
+  font-weight: bold;
+  font-size: 25px;
+}
+#tone:hover {
+  font-weight: bold;
+  font-size: 30px;
+}
+#ttwo {
+  font-weight: bold;
+  font-size: 17px;
+}
+#round1 {
+  width: 132px;
+  height: 132px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(247, 244, 244);
+  border-radius: 50%;
+  background-color: white;
+  cursor: pointer;
+}
+#round2 {
+  margin-left: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+#round3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+#ro:hover {
+  text-decoration: underline;
+  text-decoration-color: #ff9797;
+  font-family: sans-serif;
+}
+#ro1 {
+  color: rgb(246, 169, 182);
+  font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#ro2 {
+  color: #c13584;
+  font-size: 20px;
+}
+#ro3 {
+  color: #1da1f2;
+  font-size: 20px;
+}
+#ro4 {
+  color: #e60023;
+  font-size: 20px;
+}
+#ro5 {
+  color: #ff0000;
+  font-size: 20px;
+}
+#ro6 {
+  padding: 10px;
+  font-family: sans-serif;
+  color: rgb(245, 163, 226);
+}
+#ro6:hover{
+  color: rgb(244, 140, 183);
+}
+#r {
+  transform: translateY(-10px);
+  animation-name: pulse;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  cursor: pointer;
+}
+@keyframes pulse {
+  0% {
+    transform: translateY(10px);
+    background-color: #ff9797;
+  }
+  50% {
+    transform: translateY(20px);
+    background-color: palevioletred;
+  }
+}
+

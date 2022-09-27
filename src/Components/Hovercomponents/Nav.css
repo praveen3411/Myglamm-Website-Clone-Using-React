@@ -1,0 +1,46 @@
+#text-1:hover {
+  color: hotpink;
+  transition-property: color;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+#text-1:hover {
+  border-bottom: 2px solid pink;
+  border-radius: 2px;
+  transition-property: border-bottom;
+  transition-duration: 500ms;
+}
+#text-2 {
+  font-weight: bold;
+  color: palevioletred;
+  font-size: 15px;
+}
+#one1 {
+  width: 1120px;
+  margin-left: -100px;
+}
+#one2 {
+  width: 1100px;
+  margin-left: -200px;
+}
+#one3{
+    width: 1100px;
+    margin-left: -350px;
+  }
+  #one4{
+    width: 1100px;
+    margin-left: -450px;
+  }
+  #one5{
+    width: 1100px;
+    margin-left: -600px;
+  }
+  #one7{
+    width: 1100px;
+    margin-left: -900px;
+  }
+  #one8{
+    width: 1100px;
+    margin-left: -1050px;
+  }
+  
